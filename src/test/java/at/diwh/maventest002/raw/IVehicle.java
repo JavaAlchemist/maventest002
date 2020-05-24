@@ -1,6 +1,6 @@
 package at.diwh.maventest002.raw;
 
-public interface Vehicle {
+public interface IVehicle {
 	
 	public void makeNoise(); // Testroutine
 
